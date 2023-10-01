@@ -16,11 +16,3 @@
 <img src="https://github-readme-stats.vercel.app/api?username=unikgod12&count_private=true&show_icons=true&theme=radical">
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=unikgod12" alt="unikgod" /></a> </p>
 
-#### :eye: Profile Visits 
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=unikgod12.unikgod)
-
------
-<img src ="https://i.imgur.com/rncA0ga.jpg">
-
-----
