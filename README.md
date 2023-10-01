@@ -18,7 +18,7 @@
 
 #### :eye: Profile Visits 
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=unikgod12)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=unikgod12.21)
 
 -----
 <img src ="https://i.imgur.com/rncA0ga.jpg">
